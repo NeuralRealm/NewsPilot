@@ -1,4 +1,4 @@
-# Text-Summarization-using-NLP
+# NewsPilot
 
 ![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
 ![Framework](https://img.shields.io/badge/Framework-sreamlit-red)
